@@ -1,0 +1,15 @@
+C:\Users\gear0\source\repos\Trazado de circulos\Trazado de circulos\obj\Debug\netcoreapp3.1\Trazado de circulos.csprojAssemblyReference.cache
+C:\Users\gear0\source\repos\Trazado de circulos\Trazado de circulos\obj\Debug\netcoreapp3.1\Trazado_de_circulos.Form1.resources
+C:\Users\gear0\source\repos\Trazado de circulos\Trazado de circulos\obj\Debug\netcoreapp3.1\Trazado de circulos.csproj.GenerateResource.cache
+C:\Users\gear0\source\repos\Trazado de circulos\Trazado de circulos\obj\Debug\netcoreapp3.1\Trazado de circulos.AssemblyInfoInputs.cache
+C:\Users\gear0\source\repos\Trazado de circulos\Trazado de circulos\obj\Debug\netcoreapp3.1\Trazado de circulos.AssemblyInfo.cs
+C:\Users\gear0\source\repos\Trazado de circulos\Trazado de circulos\obj\Debug\netcoreapp3.1\Trazado de circulos.csproj.CoreCompileInputs.cache
+C:\Users\gear0\source\repos\Trazado de circulos\Trazado de circulos\bin\Debug\netcoreapp3.1\Trazado de circulos.exe
+C:\Users\gear0\source\repos\Trazado de circulos\Trazado de circulos\bin\Debug\netcoreapp3.1\Trazado de circulos.deps.json
+C:\Users\gear0\source\repos\Trazado de circulos\Trazado de circulos\bin\Debug\netcoreapp3.1\Trazado de circulos.runtimeconfig.json
+C:\Users\gear0\source\repos\Trazado de circulos\Trazado de circulos\bin\Debug\netcoreapp3.1\Trazado de circulos.runtimeconfig.dev.json
+C:\Users\gear0\source\repos\Trazado de circulos\Trazado de circulos\bin\Debug\netcoreapp3.1\Trazado de circulos.dll
+C:\Users\gear0\source\repos\Trazado de circulos\Trazado de circulos\bin\Debug\netcoreapp3.1\Trazado de circulos.pdb
+C:\Users\gear0\source\repos\Trazado de circulos\Trazado de circulos\obj\Debug\netcoreapp3.1\Trazado de circulos.dll
+C:\Users\gear0\source\repos\Trazado de circulos\Trazado de circulos\obj\Debug\netcoreapp3.1\Trazado de circulos.pdb
+C:\Users\gear0\source\repos\Trazado de circulos\Trazado de circulos\obj\Debug\netcoreapp3.1\Trazado de circulos.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Trazado de circulos/1.0.0": {
+        "runtime": {
+          "Trazado de circulos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Trazado de circulos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
